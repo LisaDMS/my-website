@@ -1,0 +1,36 @@
+.barre-menu {
+    font-size: 22px;
+    font-weight: bold;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 15px;
+    left: 0;
+}
+
+.barre-menu li {        
+    display: inline;
+    padding: 95px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+
+}
+
+.barre-menu a {
+    text-decoration: none;
+    color: rgb(238, 238, 238);
+    }
+
+.barre-menu a:hover {
+    color: purple;
+    background-color: rgba(146, 171, 196, 0.1);
+    }
+
+#home {
+    color: #d3b861;
+}
+
+
+
+
